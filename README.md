@@ -87,7 +87,7 @@ gunicorn app:app
 
 ## Autor
 
-Nome: Ingridy
+Nome: Ingridy Bianca Davantel Da Silva e Isadora Cristina de Oliveira
 
 Turma: 2ºA TEC
 
